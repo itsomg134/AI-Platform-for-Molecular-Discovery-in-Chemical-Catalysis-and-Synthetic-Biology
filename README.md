@@ -351,12 +351,18 @@ print(f"Explanation: {explanation.choices[0].message.content}")
 
 ---
 
-##  Documentation
+## Screenshorts
+-
+<img width="1885" height="874" alt="image" src="https://github.com/user-attachments/assets/82b5321b-8d71-498b-bacf-99233b995715" />
+-
+<img width="1866" height="775" alt="image" src="https://github.com/user-attachments/assets/a25f0177-b1af-4550-9759-327d8c021896" />
+-
+<img width="1887" height="876" alt="image" src="https://github.com/user-attachments/assets/b3e565f7-b904-46ab-be67-524f8b3cbda4" />
+-
+<img width="1890" height="830" alt="image" src="https://github.com/user-attachments/assets/c77aa230-0777-4fe1-a012-50cd661bd790" />
+-
+<img width="1890" height="1297" alt="image" src="https://github.com/user-attachments/assets/ac12fe3b-d745-4b79-b814-76991461e892" />
 
-- [Full API Reference](https://docs.catalytica.ai/api)
-- [Model Training Guide](https://docs.catalytica.ai/training)
-- [RDKit Integration Deep Dive](https://docs.catalytica.ai/rdkit)
-- [Voice Interface Setup](https://docs.catalytica.ai/voice)
 
 ---
 
