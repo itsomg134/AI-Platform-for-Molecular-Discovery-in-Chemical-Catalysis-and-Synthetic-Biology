@@ -103,7 +103,7 @@ CatalyticaAI moves **beyond traditional database lookup** by leveraging **genera
 
 ### Prerequisites
 - Python 3.9+
-- CUDA 11.8+ (recommended for GPU training)
+- CUDA (recommended for GPU training)
 - API keys for OpenAI, Deepgram, Murf
 
 ### Setup
