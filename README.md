@@ -8,7 +8,7 @@
 
 **Beyond Database Lookup → AI-Generated Molecular Design for Chemical Catalysis & Synthetic Biology**
 
-[Website](https://catalytica.ai) | [Documentation]([https://docs.catalytica.ai](https://docs.google.com/document/d/e/2PACX-1vRE-dzA7lnxITgNmlAmwNlGuirWtCF2GrDmPxkZp6IcAb-0q5RdySPaT3cYn5XkkEQF_3KePPXFTkyB/pub)) | [API Reference](https://aistudio.google.com/u/0/api-keys?pli=1) | [Research Paper](https://arxiv.org/abs/catalytica2025)
+[Website](https://catalytica.ai) | [Documentation](https://docs.google.com/document/d/e/2PACX-1vRE-dzA7lnxITgNmlAmwNlGuirWtCF2GrDmPxkZp6IcAb-0q5RdySPaT3cYn5XkkEQF_3KePPXFTkyB/pub) | [Research Paper](https://arxiv.org/abs/catalytica2025)
 
 ---
 
