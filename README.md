@@ -8,7 +8,7 @@
 
 **Beyond Database Lookup → AI-Generated Molecular Design for Chemical Catalysis & Synthetic Biology**
 
-[Website](https://catalytica.ai) | [Documentation](https://docs.catalytica.ai) | [API Reference](https://api.catalytica.ai) | [Research Paper](https://arxiv.org/abs/catalytica2025)
+[Website](https://catalytica.ai) | [Documentation](https://docs.catalytica.ai) | [API Reference]([https://api.catalytica.ai](https://console.deepgram.com/project/ac5123df-4551-4c90-bbf2-18006cb7871c/keys)https://murf.ai/api/api-keys) | [Research Paper](https://arxiv.org/abs/catalytica2025)
 
 ---
 
